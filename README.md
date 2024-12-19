@@ -17,7 +17,7 @@ By attaching it as a child of Stone, it is cut by And operation.
 ![image](https://github.com/user-attachments/assets/e9b12606-b540-42d8-8696-07b549c6f7da)
 
 ## About Crystal Renderer
-![image](https://github.com/user-attachments/assets/bede4245-2988-44bd-887b-e720e7ed0d94)
+![image](https://github.com/user-attachments/assets/bede4245-2988-44bd-887b-e720e7ed0d94)  
 The resulting gems can be beautifully rendered using the CrystalRenderer plug-in.    
 Store:  
 https://fab.com/s/05ba8a070b1e  
